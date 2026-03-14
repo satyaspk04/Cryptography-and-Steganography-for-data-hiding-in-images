@@ -2,7 +2,7 @@
 📌 Project Overview
 This project presents a novel dual-layered security architecture that combines Cryptography and Steganography to ensure high-level data confidentiality and integrity. By encrypting sensitive information and subsequently embedding it within a digital image, we eliminate the "suspicion of communication," making the data both unreadable and invisible to unauthorized parties.
 
-This implementation is based on my research paper published in IEEE Xplore: Cryptography and Steganography for Data Hiding in Images: A Novel Architecture and Implementation.
+This implementation is based on my research paper published in IEEE Xplore: Cryptography and Steganography for Data Hiding in Images: A Novel Architecture and Implementation.(https://ieeexplore.ieee.org/document/11031748/metrics#metrics)
 
 🚀 Key Features
 Dual-Layer Security: Combines robust cryptographic algorithms for data scrambling with steganographic techniques for data hiding.
